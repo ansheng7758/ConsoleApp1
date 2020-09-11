@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### 自我基本介绍
+- **身高180，体重64，爱好音乐**
+- **对于音乐的感受：音乐就是生活 生活的体验就化为音乐的升华 其实结合你的生活 你就可以写出来很多的感想了 很多的音乐灵感就是从生活中来的  不知不觉就变成了音符 音乐 其实音乐很简单 那就是快乐和悲伤任何音乐都是脱离不了生活的 热爱生活的人才会写出音乐 因为那是一种人生的态度**
 
-You can use the [editor on GitHub](https://github.com/ansheng7758/ConsoleApp1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ansheng7758/ConsoleApp1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 我曾经对计算机专业的畅想
+- **计算机是一门快速发展，日新月异的学科，时时刻刻都有新的理论、知识、产品、技术被推出，如果想在这个行业做的好，无论是在哪个层次都要不断的充实自己，让自己具备自我知识更新的能力。**
+- **计算机专业相比起其他的专业来说，平均起步收入是很高的。**
+- **计算机学科本身还是很有挑战性的，经过一段时间的接触，可以找到自己喜欢的领域**
+### 我当前的技能树与技术偏好
+- **做过比较有意思的课程是java环境搭建学工系统，在此过程中熟悉语法的使用，收获良多。**
+- **我期待在课程中收获技能的提升，以及视野的开阔。**
